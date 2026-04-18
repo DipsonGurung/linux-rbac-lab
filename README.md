@@ -116,7 +116,7 @@ sudo md5sum -c /opt/Bagmaticyber/README.md.md5
 
 ## Full Documentation
 
-See [`BagmatiCyber_RBAC_Guide.docx`](./BagmatiCyber_RBAC_Guide.pdf) for the complete step-by-step guide with all commands, explanations, and expected outputs.
+See [`BagmatiCyber_RBAC_Lab.pdf`](./BagmatiCyber_RBAC_Lab.pdf) for the complete step-by-step guide with all commands, explanations, and expected outputs.
 
 ---
 
